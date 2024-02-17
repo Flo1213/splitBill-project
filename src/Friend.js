@@ -1,4 +1,3 @@
-import FriendsList from "./FriendList";
 import Button from "./Button";
 
 export default function Friend({ friend, onSelection, selectedFriend }) {
