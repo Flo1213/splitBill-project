@@ -2,7 +2,6 @@ import { useState } from "react";
 import FriendsList from "./FriendList";
 import FromAddFriend from "./FromAddFriend";
 import Button from "./Button";
-import Friend from "./Friend";
 import FromSplitBill from "./FromSplitBill";
 
 const initialFriends = [
